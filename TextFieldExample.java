@@ -45,4 +45,4 @@ f.add(tf1);f.add(tf2);f.add(tf3);f.add(b1);f.add(b2);
  } 
 public static void main(String[] args) { 
  new TextFieldExample(); 
-} }
+}}
